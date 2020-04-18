@@ -1,0 +1,148 @@
+body{
+background-image:url('../images/green.jpg');
+}
+h1{
+	font-weight: bold italic;
+	font-style: normal;
+	font-size: 70px;
+	font-family:Tahoma;
+	letter-spacing:0.2em;
+	margin: 50px;
+}
+img{
+	border-radius:50%;
+	border: 5px black solid;
+}
+.imgg span:nth-of-type(even){
+    color:red;
+}
+.imgg span:nth-of-type(odd){
+	color:crimson;
+}
+.box-2{
+	color:black;
+	font-family:Arial Helvetica sans-serif;
+	font-weight:normal;
+	font-size: 20px;
+	font-style: normal;
+	margin:50px;
+	padding-left:20px;
+}
+a{
+	text-decoration: none;
+	color:black;
+	font-size: 16px;
+	font-family: Tahoma;
+}
+a:hover{
+	color: red;
+}
+.categories ul{
+	margin:20px;
+	padding-right:20px;
+}
+.categories li{
+	font-family:Tahoma;
+	font-weight: bold;
+	font-size: 26px;
+	padding-bottom:10px;
+	list-style-image: url("../images/check2.jpg");
+
+}
+.personal{
+	font-family:Tahoma;
+	font-weight: bold;
+	margin:50px;
+	padding-top: 100px;
+}
+.categories-2{
+	float: left;
+	width:150px;
+	font-family:Tahoma;
+	font-weight: bold;
+	font-size: 26px;
+	list-style-image: url("../images/check2.jpg");
+}
+.imagee{
+	border-radius:50px;
+	border: 5px black solid;
+}
+.skill{
+	margin:auto;
+	padding:50px;
+	font-family: Tahoma;
+	font-size: 30px;
+	font-weight: bold;
+	letter-spacing: 0.5em;
+}
+.skill span:nth-of-type(even){
+    color:green;
+}
+.skill span:nth-of-type(odd){
+	color:black;
+}
+.skilll{
+	padding-top: 50px;
+	margin: 0;
+	font-family: Tahoma;
+	font-size: 30px;
+	font-weight: bold;
+	letter-spacing: 0.5em;
+}
+.skilll span:nth-of-type(even){
+    color:green;
+    outline-color: black;
+}
+.skilll span:nth-of-type(odd){
+	color:lime;
+}
+
+.skill-2{
+	margin:200px;
+	padding-left:350px;
+	font-family: Arial Helvetica sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+}
+.project{
+	font-family:Tahoma;
+	font-size: 20px;
+	font-weight:bold;
+}
+.area{
+	text-align: right;
+	padding:30px;
+	font-weight:bold;
+	font-family:Tahoma;
+	font-size:50px;
+}
+.ind{
+	text-align:right;
+	font-family:Comic Sans MS;
+	font-size: 25px;
+	font-weight:bold;
+}
+.project-2{
+	margin-top:20px;
+	padding: 30px;
+	font-family:Tahoma;
+	font-size: 20px;
+	font-weight:bold;
+}
+.school{
+	color:darkgreen;
+	text-align: center;
+	font-family: Tahoma;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
